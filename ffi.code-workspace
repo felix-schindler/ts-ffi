@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+			"name": "Deno",
+      "path": "./deno"
+    },
+    {
+			"name": "Bun",
+      "path": "./bun"
+    }
+  ]
+}
